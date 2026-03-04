@@ -53,5 +53,5 @@ document.addEventListener("DOMContentLoaded", () => {
     document.body.appendChild(grain);
   };
 
-  // addGrain(); // Uncomment to add subtle noise texture
+  addGrain(); // Enabled for subtle noise texture
 });
